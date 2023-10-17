@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define DIM_MAX 5
+#define DIM_MAX 10
 
 void scambio(int *a, int *b)
 {
