@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-typedef struct node
-{
+typedef struct node{
     int valore;
     struct node* next;   
 }Node;
